@@ -1,0 +1,59 @@
+{
+    "logBillingData": [
+        {
+            "a_Time": "14:02:03",
+            "b_Name": "ALICE99",
+            "c_Session": "START"
+        },
+        {
+            "a_Time": "14:02:05",
+            "b_Name": "CHARLEE",
+            "c_Session": "END"
+        },
+        {
+            "a_Time": "14:02:34",
+            "b_Name": "ALICE99",
+            "c_Session": "END"
+        },
+        {
+            "a_Time": "14:02:58",
+            "b_Name": "ALICE99",
+            "c_Session": "START"
+        },
+        {
+            "a_Time": "14:03:02",
+            "b_Name": "CHARLEE",
+            "c_Session": "START"
+        },
+        {
+            "a_Time": "14:03:33",
+            "b_Name": "ALICE99",
+            "c_Session": "START"
+        },
+        {
+            "a_Time": "14:03:35",
+            "b_Name": "ALICE99",
+            "c_Session": "END"
+        },
+        {
+            "a_Time": "14:03:37",
+            "b_Name": "CHARLEE",
+            "c_Session": "END"
+        },
+        {
+            "a_Time": "14:04:05",
+            "b_Name": "ALICE99",
+            "c_Session": "END"
+        },
+        {
+            "a_Time": "14:04:23",
+            "b_Name": "ALICE99",
+            "c_Session": "END"
+        },
+        {
+            "a_Time": "14:04:41",
+            "b_Name": "CHARLEE",
+            "c_Session": "START"
+        }
+    ]
+}
